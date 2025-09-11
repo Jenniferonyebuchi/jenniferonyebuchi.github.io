@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About Me"
 ---
+Hello! I am Jennifer a current Mastercard foundation scholar pursuing my Master in Data Science at the University of British Columbia in Canada.
 
-About this site
