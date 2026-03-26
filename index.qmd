@@ -1,9 +1,15 @@
 ---
-title: "My Website"
+title: "Jennifer Ezinne Onyebuchi"
+image: images/profile.jpg
+image-alt: "Jennifer Ezinne Onyebuchi"
+about:
+  template: broadside
+  image-shape: rectangle
 ---
 
-This is a Quarto website.
+<p class="role-title">Data Scientist</p>
 
-Test
+Hi! I'm Jennifer, with a background in data science and social impact leadership. I'm passionate about how data, dashboards, predictive and analytical insights translate into real world decisions that shape everyday lives and create equitable outcomes. I am interested in harnessing AI and technology to bridge inequities — especially for underrepresented communities across Africa.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<a href="projects.qmd" class="btn btn-dark me-2 rounded-pill px-4">View Projects</a>
+<a href="mailto:onyebuchijennifere@gmail.com" class="btn btn-outline-dark rounded-pill px-4">Contact Me</a>
