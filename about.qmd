@@ -1,14 +1,33 @@
 ---
 title: "About Me"
 ---
-Hello!
 
-I’m Jennifer Onyebuchi, a social impact leader and passionate advocate for digital inclusion and gender equality in technology. I’m currently pursuing my Master’s in Data Science at the University of British Columbia as a Mastercard Foundation Scholar, where I’m building the skills to become a data scientist.
+## Who I Am
 
-My passion lies in harnessing the power of data to bridge inequities—especially in education, technology access, and opportunities for underrepresented groups. This passion inspired me to found the Tech Big Sis Foundation, where we empower African children and young girls with digital skills, preparing them for the future of work and breaking cycles of inequality.
+I'm Jennifer Onyebuchi — a social impact leader, data scientist in training, and passionate advocate for digital inclusion and gender equality in technology.
 
-Through initiatives like Tech Every African Child Early (TEACE) and the Raising Afro-Tech-Girls Movement (RAM), I’ve led programs that have reached hundreds of children and mentored dozens of young women, ensuring they are not left behind in the digital age.
+I'm currently pursuing my **Master's in Data Science at the University of British Columbia** as a **Mastercard Foundation Scholar**, where I'm building the skills to become a data scientist who drives equitable change.
 
-Beyond academics and advocacy, I enjoy mentoring, public speaking, and creating innovative ways to use technology for social good. My journey is anchored in one belief: every child deserves the opportunity to thrive in the digital age, regardless of where they are born.
+My passion lies in harnessing the power of data to bridge inequities — especially in education, technology access, and opportunities for underrepresented groups.
 
+---
 
+## My Mission
+
+> *Every child deserves the opportunity to thrive in the digital age, regardless of where they are born.*
+
+This belief is at the core of everything I do. I founded the **Tech Big Sis Foundation** to make this a reality — empowering African children and young girls with digital skills and preparing them for the future of work.
+
+### Key Initiatives
+
+| Initiative | Focus |
+|---|---|
+| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy for chi| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy for chi| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy for chi| **TEACEe** ·| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy for chi| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy for chi| **TEACE** — Tech Every African Ch| **TEACE** �gital literacy forg · Public Speaking · Mentorship
+
+---
+
+## Beyond the Work
+
+When I'm not wrangling data or running programmes, I enjoy mentoring emerging leaders, public speaking, and finding creative intersections between technology and social good.
+
+[See My Projects →](projects.qmd){.btn .btn-primary}
