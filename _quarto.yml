@@ -3,20 +3,34 @@ project:
   output-dir: docs
 
 website:
-  title: "My Website"
+  title: "Jennifer Ezinne Onyebuchi"
+  description: "Data Scientist | Social Impact Leader | Advocate for Digital Inclusion"
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: "🏠 Home"
+      - href: about.qmd
+        text: "👤 About"
+      - href: projects.qmd
+        text: "📁 Projects"
+    right:
+      - icon: github
+        href: https://github.com/jenniferonyebuchi
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jennifer-ezinne-onyebuchi/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:onyebuchijennifere@gmail.com
+        aria-label: Email
+  page-footer:
+    center: "© 2026 Jennifer Ezinne Onyebuchi"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
+    toc: false
 
 
 
