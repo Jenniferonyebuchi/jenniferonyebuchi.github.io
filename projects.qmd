@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+Below is a selection of some of my projects.
+
+---
+
+## Data Science Projects
+
+### [Canadian Migrant Education Analysis](project-migrant.qmd)
+*Python · Pandas · Shiny · Plotly · Altair*
+
+An interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.
+
+[Learn More →](project-migrant.qmd){.btn .btn-sm .btn-outline-primary}
+
+---
+
+### [Vancouver Food Finder](project-vancouver.qmd)
+*Python · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB*
+
+A map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.
+
+[Learn More →](project-vancouver.qmd){.btn .btn-sm .btn-outline-primary}
+
+---
+
+*Want to collaborate? [Get in touch](mailto:onyebuchijennifere@gmail.com).*

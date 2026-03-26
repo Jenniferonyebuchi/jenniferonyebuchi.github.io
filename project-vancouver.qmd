@@ -1,0 +1,44 @@
+---
+title: "Vancouver Food Finder"
+---
+
+[← Back to Projects](projects.qmd)
+
+---
+
+## Overview
+
+A dashboard helping Vancouver residents experiencing food insecurity find free or low-cost food supports — including meal programs and food hampers — in their area.
+
+---
+
+## The Problem
+
+Many food support programs exist across Vancouver, but information about them is scattered and difficult to search or compare. People in need often can't easily find what's available near them, what it costs, or what access requirements exist.
+
+---
+
+## What I Built
+
+- An interactive map-based dashboard using Kepler.gl and ipyleaflet to show program locations across Vancouver
+- Filters by service type, cost, and access requirements
+- Built with the City of Vancouver Food Programs open dataset which includes both program details and geospatial information
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Language | Python |
+| Dashboard | Shiny · shinylive · shinywidgets |
+| Visualisation | Plotly · Altair · plotnine |
+| Mapping | Kepler.gl · ipyleaflet |
+| Data | Pandas · Polars · DuckDB · Ibis · PyArrow · Narwhals |
+
+---
+
+## Links
+
+[View GitHub Repo](https://github.com/UBC-MDS/DSCI-532_2026_22_Vancouver-LC_Food-Programs){.btn .btn-outline-primary .rounded-pill .me-2}
+[View Live Dashboard](https://019c9c40-a7bf-b588-73bc-bddb7328a53a.share.connect.posit.cloud/){.btn .btn-primary .rounded-pill}

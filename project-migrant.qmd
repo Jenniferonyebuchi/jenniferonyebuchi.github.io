@@ -1,0 +1,43 @@
+---
+title: "Canadian Migrant Education Analysis"
+---
+
+[← Back to Projects](projects.qmd)
+
+---
+
+## Overview
+
+An interactive data visualization Shiny app exploring migrant education trends in Canada. The app enables users to filter and compare indicators across regions and time, making it easier to uncover patterns in access, participation, and outcomes.
+
+---
+
+## The Problem
+
+Migrant students in Canada face unique barriers in education — language, mobility, and socioeconomic challenges. But data about their experiences is scattered and hard to explore. This project makes that data accessible and explorable for researchers, educators, and policymakers.
+
+---
+
+## What I Built
+
+- An interactive Shiny dashboard that visualises migrant education indicators across Canadian provinces
+- Filters by region, time period, and education level
+- Visual storytelling using Plotly and Altair charts to surface key patterns
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Language | Python |
+| Dashboard | Shiny (shinylive, shinywidgets) |
+| Visualisation | Plotly · Altair · Pandas |
+| Data | GitHub · CSV datasets |
+
+---
+
+## Links
+
+[View GitHub Repo](https://github.com/Jenniferonyebuchi/migrant-education-analysis){.btn .btn-outline-primary .rounded-pill .me-2}
+[View Live App](https://019d26cc-4c25-4a42-ed4c-398897528989.share.connect.posit.cloud){.btn .btn-primary .rounded-pill}
