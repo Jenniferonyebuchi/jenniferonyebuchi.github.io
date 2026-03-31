@@ -40,5 +40,5 @@ Many food support programs exist across Vancouver, but information about them is
 
 ## Links
 
-[View GitHub Repo](https://github.com/UBC-MDS/DSCI-532_2026_22_Vancouver-LC_Food-Programs){.btn .btn-outline-primary .rounded-pill .me-2}
-[View Live Dashboard](https://019c9c40-a7bf-b588-73bc-bddb7328a53a.share.connect.posit.cloud/){.btn .btn-primary .rounded-pill}
+[View Live Dashboard](https://019c9c40-a7bf-b588-73bc-bddb7328a53a.share.connect.posit.cloud/){.btn .btn-primary .rounded-pill .me-2}
+[View GitHub Repo](https://github.com/UBC-MDS/DSCI-532_2026_22_Vancouver-LC_Food-Programs){.btn .btn-outline-primary .rounded-pill}
