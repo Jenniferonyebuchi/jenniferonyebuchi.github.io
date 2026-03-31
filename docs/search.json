@@ -4,21 +4,7 @@
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m Jennifer Onyebuchi — a social impact leader, data scientist in training, and passionate advocate for digital inclusion and gender equality in technology.\nI’m currently pursuing my Master’s in Data Science at the University of British Columbia as a Mastercard Foundation Scholar, where I’m building the skills to become a data scientist who drives equitable change.\nMy passion lies in harnessing the power of data to bridge inequities — especially in education, technology access, and opportunities for underrepresented groups."
-  },
-  {
-    "objectID": "about.html#who-i-am",
-    "href": "about.html#who-i-am",
-    "title": "About Me",
-    "section": "",
-    "text": "I’m Jennifer Onyebuchi — a social impact leader, data scientist in training, and passionate advocate for digital inclusion and gender equality in technology.\nI’m currently pursuing my Master’s in Data Science at the University of British Columbia as a Mastercard Foundation Scholar, where I’m building the skills to become a data scientist who drives equitable change.\nMy passion lies in harnessing the power of data to bridge inequities — especially in education, technology access, and opportunities for underrepresented groups."
-  },
-  {
-    "objectID": "about.html#my-mission",
-    "href": "about.html#my-mission",
-    "title": "About Me",
-    "section": "My Mission",
-    "text": "My Mission\n\nEvery child deserves the opportunity to thrive in the digital age, regardless of where they are born.\n\nThis belief is at the core of everything I do. I founded the Tech Big Sis Foundation to make this a reality — empowering African children and young girls with digital skills and preparing them for the future of work.\n\nKey Initiatives\n\n\n\nInitiative\nFocus\n\n\n\n\nTEACE — Tech Every African Ch\nTEACE �gital literacy for chi"
+    "text": "Hello and welcome!\nI’m Jennifer Onyebuchi - a Data Scientist and AI practitioner currently pursuing my Master’s in Data Science at the University of British Columbia, Canada. My work sits at the intersection of data, education, and social impact, where I use data to uncover patterns, tell meaningful stories, and inform better decisions.\nI have experience applying machine learning, statistical analysis, and data visualization to real-world problems, building solutions such as interactive dashboards and predictive models. I’m particularly interested in how data can be used to highlight inequalities and improve access to opportunities, especially in underserved communities.\nBeyond technical work, I am the founder of the Tech Big Sis Foundation, where I lead initiatives that introduce children and young girls in underserved African communities to digital skills and artificial intelligence. Through this work, I have trained and mentored hundreds of learners, shaping my approach to building technology that is inclusive, accessible, and grounded in real-world context.\nI am deeply interested in responsible and ethical AI, particularly in ensuring that emerging technologies are designed not just for but with the communities they impact.\nI’m driven by problems that go beyond the dataset -problems that require understanding people, context, and impact."
   },
   {
     "objectID": "about.html#beyond-the-work",
@@ -32,7 +18,7 @@
     "href": "index.html",
     "title": "Jennifer Ezinne Onyebuchi",
     "section": "",
-    "text": "Data Scientist\n\nHi! I’m Jennifer, with a background in data science and social impact leadership. I’m passionate about how data, dashboards, predictive and analytical insights translate into real world decisions that shape everyday lives and create equitable outcomes. I am interested in harnessing AI and technology to bridge inequities — especially for underrepresented communities across Africa.\nView Projects Contact Me"
+    "text": "Data Scientist\n\nHi! I’m Jennifer. I believe that the answers to many of the world’s most important questions lie within data, if we ask the right questions and know how to listen.\nWith a background in data science and artificial intelligence and social impact leadership I apply machine learning, statistical analysis, and data visualization to uncover insights and support data-driven decision-making. My work sits at the intersection of data, education-technology, and social impact, where I use data not just to analyze problems, but to better understand people, systems, and inequalities.\nView Projects Contact Me"
   },
   {
     "objectID": "project-migrant.html",
@@ -74,7 +60,7 @@
     "href": "project-migrant.html#links",
     "title": "Canadian Migrant Education Analysis",
     "section": "Links",
-    "text": "Links\nView GitHub Repo View Live App"
+    "text": "Links\nView Live App View GitHub Repo"
   },
   {
     "objectID": "projects.html",
@@ -82,6 +68,13 @@
     "title": "Projects",
     "section": "",
     "text": "Below is a selection of some of my projects."
+  },
+  {
+    "objectID": "projects.html#data-science-projects",
+    "href": "projects.html#data-science-projects",
+    "title": "Projects",
+    "section": "Data Science Projects",
+    "text": "Data Science Projects\n\nCanadian Migrant Education Analysis\nPython · Pandas · Shiny · Plotly · Altair\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\nLearn More →\n\n\n\nVancouver Food Finder\nPython · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\nLearn More →\n\nWant to collaborate? Get in touch."
   },
   {
     "objectID": "project-vancouver.html",
@@ -123,20 +116,6 @@
     "href": "project-vancouver.html#links",
     "title": "Vancouver Food Finder",
     "section": "Links",
-    "text": "Links\nView GitHub Repo View Live Dashboard"
-  },
-  {
-    "objectID": "projects.html#data-science-projects",
-    "href": "projects.html#data-science-projects",
-    "title": "Projects",
-    "section": "Data Science Projects",
-    "text": "Data Science Projects\n\nCanadian Migrant Education Analysis\nPython · Pandas · Shiny · Plotly · Altair\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\nLearn More →\n\n\n\nVancouver Food Finder\nPython · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\nLearn More →\n\nWant to collaborate? Get in touch."
-  },
-  {
-    "objectID": "projects.html#coming-soon",
-    "href": "projects.html#coming-soon",
-    "title": "Projects",
-    "section": "Coming Soon",
-    "text": "Coming Soon\n::: {.callout-More projects are in progress!} Check back soon or follow me on GitHub to see work as it develops.\n:::\n\nWant to collaborate? Get in touch."
+    "text": "Links\nView Live Dashboard View GitHub Repo"
   }
 ]

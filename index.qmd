@@ -9,7 +9,9 @@ about:
 
 <p class="role-title">Data Scientist</p>
 
-Hi! I'm Jennifer, with a background in data science and social impact leadership. I'm passionate about how data, dashboards, predictive and analytical insights translate into real world decisions that shape everyday lives and create equitable outcomes. I am interested in harnessing AI and technology to bridge inequities — especially for underrepresented communities across Africa.
+Hi! I'm Jennifer. I believe that the answers to many of the world’s most important questions lie within data, if we ask the right questions and know how to listen.
+
+With a background in data science and artificial intelligence and social impact leadership I apply machine learning, statistical analysis, and data visualization to uncover insights and support data-driven decision-making. My work sits at the intersection of data, education-technology, and social impact, where I use data not just to analyze problems, but to better understand people, systems, and inequalities.
 
 <a href="projects.qmd" class="btn btn-dark me-2 rounded-pill px-4">View Projects</a>
 <a href="mailto:onyebuchijennifere@gmail.com" class="btn btn-outline-dark rounded-pill px-4">Contact Me</a>
