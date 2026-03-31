@@ -39,5 +39,5 @@ Migrant students in Canada face unique barriers in education — language, mobil
 
 ## Links
 
-[View GitHub Repo](https://github.com/Jenniferonyebuchi/migrant-education-analysis){.btn .btn-outline-primary .rounded-pill .me-2}
-[View Live App](https://019d26cc-4c25-4a42-ed4c-398897528989.share.connect.posit.cloud){.btn .btn-primary .rounded-pill}
+[View Live App](https://019d26cc-4c25-4a42-ed4c-398897528989.share.connect.posit.cloud){.btn .btn-primary .rounded-pill .me-2}
+[View GitHub Repo](https://github.com/Jenniferonyebuchi/migrant-education-analysis){.btn .btn-outline-primary .rounded-pill}
