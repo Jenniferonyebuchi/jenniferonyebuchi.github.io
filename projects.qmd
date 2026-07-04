@@ -8,6 +8,15 @@ Below is a selection of some of my projects.
 
 ## Data Science Projects
 
+### [Amazon ProFinder](project-amazon-profinder.qmd)
+*Python · Data Visualization · Product Search*
+
+A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.
+
+[Learn More →](project-amazon-profinder.qmd){.btn .btn-sm .btn-outline-primary}
+
+---
+
 ### [Canadian Migrant Education Analysis](project-migrant.qmd)
 *Python · Pandas · Shiny · Plotly · Altair*
 
@@ -23,15 +32,6 @@ An interactive Shiny app exploring migrant education trends in Canada. Filter an
 A map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.
 
 [Learn More →](project-vancouver.qmd){.btn .btn-sm .btn-outline-primary}
-
----
-
-### [Amazon ProFinder](project-amazon-profinder.qmd)
-*Python · Data Visualization · Product Search*
-
-A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.
-
-[Learn More →](project-amazon-profinder.qmd){.btn .btn-sm .btn-outline-primary}
 
 ---
 
