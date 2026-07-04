@@ -45,14 +45,23 @@ body {
   padding-right: 1.6rem;
 }
 
-/* ── Circular profile image ── */
+/* ── Broadside profile image ── */
 .quarto-about-broadside .about-image {
-  border-radius: 50%;
+  border-radius: 24px;
   object-fit: cover;
-  aspect-ratio: 1 / 1;
   width: 100%;
-  max-width: 380px;
+  max-width: 420px;
+  min-height: 520px;
   box-shadow: 0 4px 24px rgba(0,0,0,0.10);
+}
+
+@media (max-width: 900px) {
+  .quarto-about-broadside .about-image {
+    border-radius: 18px;
+    max-width: 100%;
+    min-height: auto;
+    height: auto;
+  }
 }
 
 h1, h2, h3 {
