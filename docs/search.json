@@ -109,14 +109,14 @@
     "href": "projects.html",
     "title": "Jennifer Ezinne Onyebuchi",
     "section": "",
-    "text": "Built a recommendation system to surface top menu items using Python and SQL.\n\n\n\nTools: Python · SQL Server · Azure · Looker Studio\n\n\nView Project →\n\n\n\n\n\n\nModeled borrower risk using LendingClub data with logistic regression and random forest.\n\n\n\nTools: R · scikit-learn · pandas\n\n\nView Project →\n\n\n\n\n\n\nInteractive Shiny dashboard visualizing maritime traffic, anomalies, and AIS data.\n\n\n\nTools: R · Shiny · ggplot2\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
+    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
   },
   {
     "objectID": "projects.html#projects",
     "href": "projects.html#projects",
     "title": "Jennifer Ezinne Onyebuchi",
     "section": "",
-    "text": "Built a recommendation system to surface top menu items using Python and SQL.\n\n\n\nTools: Python · SQL Server · Azure · Looker Studio\n\n\nView Project →\n\n\n\n\n\n\nModeled borrower risk using LendingClub data with logistic regression and random forest.\n\n\n\nTools: R · scikit-learn · pandas\n\n\nView Project →\n\n\n\n\n\n\nInteractive Shiny dashboard visualizing maritime traffic, anomalies, and AIS data.\n\n\n\nTools: R · Shiny · ggplot2\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
+    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
   },
   {
     "objectID": "project-vancouver.html",
