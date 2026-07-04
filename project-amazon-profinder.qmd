@@ -9,9 +9,7 @@ title: "Amazon ProFinder"
 ## Overview
 
 Amazon ProFinder is a product-search pipeline for the Amazon Electronics category. It combines data retrieval, preprocessing, and semantic retrieval to support natural language search over Amazon product metadata and reviews.
-
-![](images/amazon_profinder.png){fig-alt="Amazon ProFinder dashboard" width="100%"}
-
+ 
 ---
 
 ## The Problem
@@ -33,11 +31,7 @@ Amazon product data is large and noisy, making it hard to find relevant items qu
 
 | Category | Tools |
 |---|---|
-| Language | Python |
-| Retrieval | FAISS · BM25 · sentence-transformers |
-| RAG | LangChain · Groq · Llama 4 Scout |
-| Notebook | Jupyter |
-| Data | Parquet · Hugging Face · DuckDB |
+| Tools | Python · LangChain · FAISS · BM25 · Hugging Face Sentence Transformers · DuckDB · Groq API · Llama 4 Scout · Shiny |
 
 ---
 
