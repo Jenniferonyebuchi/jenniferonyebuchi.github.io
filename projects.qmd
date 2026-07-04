@@ -26,4 +26,13 @@ A map-based dashboard helping Vancouver residents find free or low-cost food sup
 
 ---
 
+### [Amazon ProFinder](project-amazon-profinder.qmd)
+*Python · Data Visualization · Product Search*
+
+A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.
+
+[Learn More →](project-amazon-profinder.qmd){.btn .btn-sm .btn-outline-primary}
+
+---
+
 *Want to collaborate? [Get in touch](mailto:onyebuchijennifere@gmail.com).*
