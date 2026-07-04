@@ -21,6 +21,48 @@
     "text": "Data Scientist\n\nHi! I’m Jennifer. I believe that the answers to many of the world’s most important questions lie within data, if we ask the right questions and know how to listen.\nWith a background in data science and artificial intelligence and social impact leadership I apply machine learning, statistical analysis, and data visualization to uncover insights and support data-driven decision-making. My work sits at the intersection of data, education-technology, and social impact, where I use data not just to analyze problems, but to better understand people, systems, and inequalities.\nView Projects Contact Me"
   },
   {
+    "objectID": "project-amazon-profinder.html",
+    "href": "project-amazon-profinder.html",
+    "title": "Amazon ProFinder",
+    "section": "",
+    "text": "← Back to Projects"
+  },
+  {
+    "objectID": "project-amazon-profinder.html#overview",
+    "href": "project-amazon-profinder.html#overview",
+    "title": "Amazon ProFinder",
+    "section": "Overview",
+    "text": "Overview\nAmazon ProFinder is a product-search pipeline for the Amazon Electronics category. It combines data retrieval, preprocessing, and semantic retrieval to support natural language search over Amazon product metadata and reviews."
+  },
+  {
+    "objectID": "project-amazon-profinder.html#the-problem",
+    "href": "project-amazon-profinder.html#the-problem",
+    "title": "Amazon ProFinder",
+    "section": "The Problem",
+    "text": "The Problem\nAmazon product data is large and noisy, making it hard to find relevant items quickly. Traditional keyword search misses the nuance of product descriptions and reviews, while context-aware retrieval can help surface better matches."
+  },
+  {
+    "objectID": "project-amazon-profinder.html#what-i-built",
+    "href": "project-amazon-profinder.html#what-i-built",
+    "title": "Amazon ProFinder",
+    "section": "What I Built",
+    "text": "What I Built\n\nA semantic search pipeline using sentence-transformer embeddings and a FAISS index\nA retrieval-augmented generation (RAG) workflow that grounds LLM answers in retrieved product context\nA hybrid search option combining BM25 keyword retrieval with dense semantic retrieval\nNotebooks and discussion artifacts for milestone analysis, model comparison, and qualitative evaluation"
+  },
+  {
+    "objectID": "project-amazon-profinder.html#tools-technologies",
+    "href": "project-amazon-profinder.html#tools-technologies",
+    "title": "Amazon ProFinder",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nLanguage\nPython\n\n\nRetrieval\nFAISS · BM25 · sentence-transformers\n\n\nRAG\nLangChain · Groq · Llama 4 Scout\n\n\nNotebook\nJupyter\n\n\nData\nParquet · Hugging Face · DuckDB"
+  },
+  {
+    "objectID": "project-amazon-profinder.html#links",
+    "href": "project-amazon-profinder.html#links",
+    "title": "Amazon ProFinder",
+    "section": "Links",
+    "text": "Links\nView GitHub Repo"
+  },
+  {
     "objectID": "project-migrant.html",
     "href": "project-migrant.html",
     "title": "Canadian Migrant Education Analysis",
@@ -74,7 +116,7 @@
     "href": "projects.html#data-science-projects",
     "title": "Projects",
     "section": "Data Science Projects",
-    "text": "Data Science Projects\n\nCanadian Migrant Education Analysis\nPython · Pandas · Shiny · Plotly · Altair\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\nLearn More →\n\n\n\nVancouver Food Finder\nPython · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\nLearn More →\n\nWant to collaborate? Get in touch."
+    "text": "Data Science Projects\n\nCanadian Migrant Education Analysis\nPython · Pandas · Shiny · Plotly · Altair\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\nLearn More →\n\n\n\nVancouver Food Finder\nPython · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\nLearn More →\n\n\n\nAmazon ProFinder\nPython · Data Visualization · Product Search\nA project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\nLearn More →\n\nWant to collaborate? Get in touch."
   },
   {
     "objectID": "project-vancouver.html",
