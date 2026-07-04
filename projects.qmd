@@ -8,31 +8,35 @@ Below is a selection of some of my projects.
 
 ## Data Science Projects
 
+<div class="row">
+
+<div class="col-md-4 mb-4">
 ### [Amazon ProFinder](project-amazon-profinder.qmd)
 *Python · Data Visualization · Product Search*
 
 A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.
 
 [Learn More →](project-amazon-profinder.qmd){.btn .btn-sm .btn-outline-primary}
+</div>
 
----
-
+<div class="col-md-4 mb-4">
 ### [Canadian Migrant Education Analysis](project-migrant.qmd)
 *Python · Pandas · Shiny · Plotly · Altair*
 
 An interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.
 
 [Learn More →](project-migrant.qmd){.btn .btn-sm .btn-outline-primary}
+</div>
 
----
-
+<div class="col-md-4 mb-4">
 ### [Vancouver Food Finder](project-vancouver.qmd)
 *Python · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB*
 
 A map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.
 
 [Learn More →](project-vancouver.qmd){.btn .btn-sm .btn-outline-primary}
+</div>
 
----
+</div>
 
 *Want to collaborate? [Get in touch](mailto:onyebuchijennifere@gmail.com).*
