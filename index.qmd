@@ -1,6 +1,6 @@
 ---
 title: "Jennifer Ezinne Onyebuchi"
-image: images/profile.jpg
+image: images/Profile2.jpg
 image-alt: "Jennifer Ezinne Onyebuchi"
 about:
   template: broadside

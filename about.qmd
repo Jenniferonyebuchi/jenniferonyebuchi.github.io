@@ -2,7 +2,7 @@
 title: "About Me"
 ---
 
-![](images/Profile2.jpg){fig-alt="Profile portrait of Jennifer Onyebuchi" width="250px"}
+![](images/profile.jpg){fig-alt="Profile portrait of Jennifer Onyebuchi" width="250px"}
 
 Hello and welcome! 
 
