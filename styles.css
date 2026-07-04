@@ -138,19 +138,32 @@ table th {
 /* ── Project Card Grid ── */
 .project-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1.5rem;
   margin: 2rem 0;
+}
+
+@media (min-width: 992px) {
+  .project-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .project-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 .project-card {
   position: relative;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  min-height: 360px;
-  background: #c0392b;
-  border-radius: 10px;
+  justify-content: flex-start;
+  min-height: 320px;
+  height: 100%;
+  background: #264653;
+  border-radius: 16px;
   padding: 1.5rem;
   text-decoration: none !important;
   color: #fff !important;
@@ -159,63 +172,64 @@ table th {
 }
 
 .project-card:hover {
-  background: #922b21;
+  background: #1f3f4f;
   transform: translateY(-5px);
-  box-shadow: 0 12px 32px rgba(0,0,0,0.18);
+  box-shadow: 0 18px 40px rgba(0,0,0,0.2);
   color: #fff !important;
   text-decoration: none !important;
 }
 
-.project-year {
-  display: inline-block;
-  background: #444;
-  color: #bbb;
-  font-size: 0.78rem;
-  font-weight: 600;
-  padding: 0.2rem 0.65rem;
-  border-radius: 4px;
-  margin-bottom: 1.25rem;
-  align-self: flex-start;
-}
-
 .project-info h3 {
-  font-size: 1.5rem;
+  font-size: 1.45rem;
   font-weight: 900;
-  color: #fff !important;
+  color: #f6f3eb !important;
   margin-bottom: 0.75rem;
-  line-height: 1.25;
+  line-height: 1.2;
 }
 
 .project-info p {
-  font-size: 0.92rem;
-  color: #bbb;
-  line-height: 1.65;
+  font-size: 0.94rem;
+  color: #e6e1d8;
+  line-height: 1.5;
   margin: 0;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
 }
 
 .project-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45rem;
-  margin-top: 1.5rem;
-  opacity: 0;
-  transform: translateY(10px);
-  transition: opacity 0.3s ease, transform 0.3s ease;
-}
-
-.project-card:hover .project-tags {
-  opacity: 1;
-  transform: translateY(0);
+  gap: 0.5rem;
+  margin-top: 1rem;
 }
 
 .project-tags span {
-  background: #a93226;
-  color: #f5f5f5;
-  padding: 0.35rem 0.85rem;
-  border-radius: 4px;
-  font-size: 0.8rem;
+  background: rgba(255,255,255,0.08);
+  color: #d8e3e8;
+  padding: 0.35rem 0.8rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
   font-weight: 500;
-  border: 1px solid #922b21;
+  border: 1px solid rgba(255,255,255,0.12);
+}
+
+.project-link {
+  display: inline-block;
+  margin-top: auto;
+  color: #a8c9ff;
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.16);
+  border-radius: 999px;
+  padding: 0.65rem 1rem;
+  text-decoration: none;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.project-link:hover {
+  background: rgba(255,255,255,0.16);
+  transform: translateY(-1px);
 }
 
 /* ── Callout ── */

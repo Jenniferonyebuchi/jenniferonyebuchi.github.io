@@ -1,40 +1,33 @@
----
-title: "Projects"
----
 
-Below is a selection of some of my projects.
+## Projects
 
----
+<div class="project-grid">
 
-## Data Science Projects
-
-<div class="row">
-
-<div class="col-md-4 mb-4">
-### [Amazon ProFinder](project-amazon-profinder.qmd)
-*Python · Data Visualization · Product Search*
-
-A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.
-
-[Learn More →](project-amazon-profinder.qmd){.btn .btn-sm .btn-outline-primary}
+<div class="project-card">
+<div class="project-info">
+<h3>🍽️ Heymate! Menu Recommender</h3>
+<p><em>Built a recommendation system to surface top menu items using Python and SQL.</em></p>
+</div>
+<p class="project-tools">Tools: Python · SQL Server · Azure · Looker Studio</p>
+<p><a class="project-link" href="project-amazon-profinder.html">View Project →</a></p>
 </div>
 
-<div class="col-md-4 mb-4">
-### [Canadian Migrant Education Analysis](project-migrant.qmd)
-*Python · Pandas · Shiny · Plotly · Altair*
-
-An interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.
-
-[Learn More →](project-migrant.qmd){.btn .btn-sm .btn-outline-primary}
+<div class="project-card">
+<div class="project-info">
+<h3>💰 P2P Loan Risk Analysis</h3>
+<p><em>Modeled borrower risk using LendingClub data with logistic regression and random forest.</em></p>
+</div>
+<p class="project-tools">Tools: R · scikit-learn · pandas</p>
+<p><a class="project-link" href="project-migrant.html">View Project →</a></p>
 </div>
 
-<div class="col-md-4 mb-4">
-### [Vancouver Food Finder](project-vancouver.qmd)
-*Python · Shiny · Plotly · Kepler.gl · ipyleaflet · DuckDB*
-
-A map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.
-
-[Learn More →](project-vancouver.qmd){.btn .btn-sm .btn-outline-primary}
+<div class="project-card">
+<div class="project-info">
+<h3>🌍 VesselVision Dashboard</h3>
+<p><em>Interactive Shiny dashboard visualizing maritime traffic, anomalies, and AIS data.</em></p>
+</div>
+<p class="project-tools">Tools: R · Shiny · ggplot2</p>
+<p><a class="project-link" href="project-vancouver.html">View Project →</a></p>
 </div>
 
 </div>
