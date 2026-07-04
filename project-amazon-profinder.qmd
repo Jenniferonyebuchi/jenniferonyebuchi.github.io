@@ -1,0 +1,46 @@
+---
+title: "Amazon ProFinder"
+---
+
+[← Back to Projects](projects.qmd)
+
+---
+
+## Overview
+
+Amazon ProFinder is a product-search pipeline for the Amazon Electronics category. It combines data retrieval, preprocessing, and semantic retrieval to support natural language search over Amazon product metadata and reviews.
+
+![](images/amazon_profinder.png){fig-alt="Amazon ProFinder dashboard" width="100%"}
+
+---
+
+## The Problem
+
+Amazon product data is large and noisy, making it hard to find relevant items quickly. Traditional keyword search misses the nuance of product descriptions and reviews, while context-aware retrieval can help surface better matches.
+
+---
+
+## What I Built
+
+- A semantic search pipeline using sentence-transformer embeddings and a FAISS index
+- A retrieval-augmented generation (RAG) workflow that grounds LLM answers in retrieved product context
+- A hybrid search option combining BM25 keyword retrieval with dense semantic retrieval
+- Notebooks and discussion artifacts for milestone analysis, model comparison, and qualitative evaluation
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Language | Python |
+| Retrieval | FAISS · BM25 · sentence-transformers |
+| RAG | LangChain · Groq · Llama 4 Scout |
+| Notebook | Jupyter |
+| Data | Parquet · Hugging Face · DuckDB |
+
+---
+
+## Links
+
+[View GitHub Repo](https://github.com/Jenniferonyebuchi/Amazon-ProFinder){.btn .btn-outline-primary .rounded-pill}
