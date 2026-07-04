@@ -10,6 +10,8 @@ title: "Canadian Migrant Education Analysis"
 
 An interactive data visualization Shiny app exploring migrant education trends in Canada. The app enables users to filter and compare indicators across regions and time, making it easier to uncover patterns in access, participation, and outcomes.
 
+![](images/migrant_education.png){fig-alt="Migrant education dashboard" width="100%"}
+
 ---
 
 ## The Problem
