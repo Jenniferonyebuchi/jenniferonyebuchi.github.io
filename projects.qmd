@@ -22,6 +22,20 @@
 
 <div class="project-card">
 <div class="project-info">
+<h3>DeepWorks Developer Productivity Package</h3>
+<p>A modular Python package that helps developers prioritize tasks, plan focus sessions, and take effective breaks while staying motivated.</p>
+</div>
+<div class="project-tags">
+<span>Python</span>
+<span>Pandas</span>
+<span>CI/CD</span>
+<span>Git</span>
+</div>
+<p><a class="project-link" href="project-deepworks.html">View Project →</a></p>
+</div>
+
+<div class="project-card">
+<div class="project-info">
 <h3>Canadian Migrant Education Analysis</h3>
 <p>An interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.</p>
 </div>
@@ -49,20 +63,6 @@
 <span>DuckDB</span>
 </div>
 <p><a class="project-link" href="project-vancouver.html">View Project →</a></p>
-</div>
-
-<div class="project-card">
-<div class="project-info">
-<h3>DeepWorks Developer Productivity Package</h3>
-<p>A modular Python package that helps developers prioritize tasks, plan focus sessions, and take effective breaks while staying motivated.</p>
-</div>
-<div class="project-tags">
-<span>Python</span>
-<span>Pandas</span>
-<span>CI/CD</span>
-<span>Git</span>
-</div>
-<p><a class="project-link" href="project-deepworks.html">View Project →</a></p>
 </div>
 
 </div>
