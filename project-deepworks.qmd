@@ -1,0 +1,40 @@
+---
+title: "DeepWorks Developer Productivity Package"
+---
+
+[← Back to Projects](projects.qmd)
+
+---
+
+## Overview
+
+DeepWorks is a modular Python package designed to help developers improve productivity through task prioritization, Pomodoro-style focus planning, break suggestions, and personalized affirmations.
+
+---
+
+## The Problem
+
+Developers often juggle competing tasks, lose focus during long work sessions, and need better guidance for pacing their workday. DeepWorks addresses this by bringing productivity planning and wellness support into a single package.
+
+---
+
+## What I Built
+
+- Contributed to a modular Python package for developer productivity
+- Helped implement task ranking and scheduling logic
+- Supported features for focus session planning and break recommendations
+- Contributed to developer-facing functionality that combines productivity with motivation
+
+---
+
+## Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| Tools | Python · Pandas · CI/CD · Git · GitHub Actions |
+
+---
+
+## Links
+
+[View GitHub Repo](https://github.com/Jenniferonyebuchi/deepworks){.btn .btn-outline-primary .rounded-pill}

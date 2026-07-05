@@ -1,59 +1,101 @@
 [
   {
-    "objectID": "about.html#beyond-the-work",
-    "href": "about.html#beyond-the-work",
-    "title": "About Me",
-    "section": "Beyond the Work",
-    "text": "Beyond the Work\nWhen I’m not wrangling data or running programmes, I enjoy mentoring emerging leaders, public speaking, and finding creative intersections between technology and social good.\nSee My Projects →"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Jennifer Ezinne Onyebuchi",
-    "section": "",
-    "text": "Data Scientist\n\nHi! I’m Jennifer. I believe that the answers to many of the world’s most important questions lie within data, if we ask the right questions and know how to listen.\nWith a background in data science, artificial intelligence and social impact leadership; I apply machine learning, statistical analysis, and data visualization to uncover insights and support data-driven decision-making. My work sits at the intersection of data, education-technology, researchand social impact, where I use data not just to analyze problems, but to better understand people, systems, and inequalities.\nView Projects Contact Me"
-  },
-  {
-    "objectID": "project-amazon-profinder.html",
-    "href": "project-amazon-profinder.html",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html",
+    "href": "project-deepworks.html",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "",
     "text": "← Back to Projects"
   },
   {
-    "objectID": "project-amazon-profinder.html#overview",
-    "href": "project-amazon-profinder.html#overview",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html#overview",
+    "href": "project-deepworks.html#overview",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "Overview",
-    "text": "Overview\nAmazon ProFinder is a product-search pipeline for the Amazon Electronics category. It combines data retrieval, preprocessing, and semantic retrieval to support natural language search over Amazon product metadata and reviews."
+    "text": "Overview\nDeepWorks is a modular Python package designed to help developers improve productivity through task prioritization, Pomodoro-style focus planning, break suggestions, and personalized affirmations."
   },
   {
-    "objectID": "project-amazon-profinder.html#the-problem",
-    "href": "project-amazon-profinder.html#the-problem",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html#the-problem",
+    "href": "project-deepworks.html#the-problem",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "The Problem",
-    "text": "The Problem\nAmazon product data is large and noisy, making it hard to find relevant items quickly. Traditional keyword search misses the nuance of product descriptions and reviews, while context-aware retrieval can help surface better matches."
+    "text": "The Problem\nDevelopers often juggle competing tasks, lose focus during long work sessions, and need better guidance for pacing their workday. DeepWorks addresses this by bringing productivity planning and wellness support into a single package."
   },
   {
-    "objectID": "project-amazon-profinder.html#what-i-built",
-    "href": "project-amazon-profinder.html#what-i-built",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html#what-i-built",
+    "href": "project-deepworks.html#what-i-built",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "What I Built",
-    "text": "What I Built\n\nA semantic search pipeline using sentence-transformer embeddings and a FAISS index\nA retrieval-augmented generation (RAG) workflow that grounds LLM answers in retrieved product context\nA hybrid search option combining BM25 keyword retrieval with dense semantic retrieval\nNotebooks and discussion artifacts for milestone analysis, model comparison, and qualitative evaluation"
+    "text": "What I Built\n\nContributed to a modular Python package for developer productivity\nHelped implement task ranking and scheduling logic\nSupported features for focus session planning and break recommendations\nContributed to developer-facing functionality that combines productivity with motivation"
   },
   {
-    "objectID": "project-amazon-profinder.html#tools-technologies",
-    "href": "project-amazon-profinder.html#tools-technologies",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html#tools-technologies",
+    "href": "project-deepworks.html#tools-technologies",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "Tools & Technologies",
-    "text": "Tools & Technologies\n\n\n\n\n\n\n\nCategory\nTools\n\n\n\n\nTools\nPython · LangChain · FAISS · BM25 · Hugging Face Sentence Transformers · DuckDB · Groq API · Llama 4 Scout · Shiny"
+    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nTools\nPython · Pandas · CI/CD · Git · GitHub Actions"
   },
   {
-    "objectID": "project-amazon-profinder.html#links",
-    "href": "project-amazon-profinder.html#links",
-    "title": "Amazon ProFinder",
+    "objectID": "project-deepworks.html#links",
+    "href": "project-deepworks.html#links",
+    "title": "DeepWorks Developer Productivity Package",
     "section": "Links",
     "text": "Links\nView GitHub Repo"
+  },
+  {
+    "objectID": "project-vancouver.html",
+    "href": "project-vancouver.html",
+    "title": "Vancouver Food Finder",
+    "section": "",
+    "text": "← Back to Projects"
+  },
+  {
+    "objectID": "project-vancouver.html#overview",
+    "href": "project-vancouver.html#overview",
+    "title": "Vancouver Food Finder",
+    "section": "Overview",
+    "text": "Overview\nA dashboard helping Vancouver residents experiencing food insecurity find free or low-cost food supports — including meal programs and food hampers — in their area."
+  },
+  {
+    "objectID": "project-vancouver.html#the-problem",
+    "href": "project-vancouver.html#the-problem",
+    "title": "Vancouver Food Finder",
+    "section": "The Problem",
+    "text": "The Problem\nMany food support programs exist across Vancouver, but information about them is scattered and difficult to search or compare. People in need often can’t easily find what’s available near them, what it costs, or what access requirements exist."
+  },
+  {
+    "objectID": "project-vancouver.html#what-i-built",
+    "href": "project-vancouver.html#what-i-built",
+    "title": "Vancouver Food Finder",
+    "section": "What I Built",
+    "text": "What I Built\n\nAn interactive map-based dashboard using Kepler.gl and ipyleaflet to show program locations across Vancouver\nFilters by service type, cost, and access requirements\nBuilt with the City of Vancouver Food Programs open dataset which includes both program details and geospatial information"
+  },
+  {
+    "objectID": "project-vancouver.html#tools-technologies",
+    "href": "project-vancouver.html#tools-technologies",
+    "title": "Vancouver Food Finder",
+    "section": "Tools & Technologies",
+    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nLanguage\nPython\n\n\nDashboard\nShiny · shinylive · shinywidgets\n\n\nVisualisation\nPlotly · Altair · plotnine\n\n\nMapping\nKepler.gl · ipyleaflet\n\n\nData\nPandas · Polars · DuckDB · Ibis · PyArrow · Narwhals"
+  },
+  {
+    "objectID": "project-vancouver.html#links",
+    "href": "project-vancouver.html#links",
+    "title": "Vancouver Food Finder",
+    "section": "Links",
+    "text": "Links\nView Live Dashboard View GitHub Repo"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Jennifer Ezinne Onyebuchi",
+    "section": "",
+    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\n\n\n\nA modular Python package that helps developers prioritize tasks, plan focus sessions, and take effective breaks while staying motivated.\n\n\n\nPython Pandas CI/CD Git\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Jennifer Ezinne Onyebuchi",
+    "section": "",
+    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\n\n\n\nA modular Python package that helps developers prioritize tasks, plan focus sessions, and take effective breaks while staying motivated.\n\n\n\nPython Pandas CI/CD Git\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
   },
   {
     "objectID": "project-migrant.html",
@@ -98,59 +140,59 @@
     "text": "Links\nView Live App View GitHub Repo"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Jennifer Ezinne Onyebuchi",
-    "section": "",
-    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
-  },
-  {
-    "objectID": "projects.html#projects",
-    "href": "projects.html#projects",
-    "title": "Jennifer Ezinne Onyebuchi",
-    "section": "",
-    "text": "A project showcasing Amazon product discovery tools for faster search, analysis, and decision-making.\n\n\n\nPython LangChain FAISS BM25 Groq API Llama 4 Scout Shiny\n\n\nView Project →\n\n\n\n\n\n\nAn interactive Shiny app exploring migrant education trends in Canada. Filter and compare indicators across regions and time to uncover patterns in access, participation, and outcomes.\n\n\n\nPython Pandas Shiny Plotly Altair\n\n\nView Project →\n\n\n\n\n\n\nA map-based dashboard helping Vancouver residents find free or low-cost food supports. Filter by service type, cost, and access requirements to discover programs nearby.\n\n\n\nPython Shiny Plotly Kepler.gl ipyleaflet DuckDB\n\n\nView Project →\n\n\n\nWant to collaborate? Get in touch."
-  },
-  {
-    "objectID": "project-vancouver.html",
-    "href": "project-vancouver.html",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html",
+    "href": "project-amazon-profinder.html",
+    "title": "Amazon ProFinder",
     "section": "",
     "text": "← Back to Projects"
   },
   {
-    "objectID": "project-vancouver.html#overview",
-    "href": "project-vancouver.html#overview",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html#overview",
+    "href": "project-amazon-profinder.html#overview",
+    "title": "Amazon ProFinder",
     "section": "Overview",
-    "text": "Overview\nA dashboard helping Vancouver residents experiencing food insecurity find free or low-cost food supports — including meal programs and food hampers — in their area."
+    "text": "Overview\nAmazon ProFinder is a product-search pipeline for the Amazon Electronics category. It combines data retrieval, preprocessing, and semantic retrieval to support natural language search over Amazon product metadata and reviews."
   },
   {
-    "objectID": "project-vancouver.html#the-problem",
-    "href": "project-vancouver.html#the-problem",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html#the-problem",
+    "href": "project-amazon-profinder.html#the-problem",
+    "title": "Amazon ProFinder",
     "section": "The Problem",
-    "text": "The Problem\nMany food support programs exist across Vancouver, but information about them is scattered and difficult to search or compare. People in need often can’t easily find what’s available near them, what it costs, or what access requirements exist."
+    "text": "The Problem\nAmazon product data is large and noisy, making it hard to find relevant items quickly. Traditional keyword search misses the nuance of product descriptions and reviews, while context-aware retrieval can help surface better matches."
   },
   {
-    "objectID": "project-vancouver.html#what-i-built",
-    "href": "project-vancouver.html#what-i-built",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html#what-i-built",
+    "href": "project-amazon-profinder.html#what-i-built",
+    "title": "Amazon ProFinder",
     "section": "What I Built",
-    "text": "What I Built\n\nAn interactive map-based dashboard using Kepler.gl and ipyleaflet to show program locations across Vancouver\nFilters by service type, cost, and access requirements\nBuilt with the City of Vancouver Food Programs open dataset which includes both program details and geospatial information"
+    "text": "What I Built\n\nA semantic search pipeline using sentence-transformer embeddings and a FAISS index\nA retrieval-augmented generation (RAG) workflow that grounds LLM answers in retrieved product context\nA hybrid search option combining BM25 keyword retrieval with dense semantic retrieval\nNotebooks and discussion artifacts for milestone analysis, model comparison, and qualitative evaluation"
   },
   {
-    "objectID": "project-vancouver.html#tools-technologies",
-    "href": "project-vancouver.html#tools-technologies",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html#tools-technologies",
+    "href": "project-amazon-profinder.html#tools-technologies",
+    "title": "Amazon ProFinder",
     "section": "Tools & Technologies",
-    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nLanguage\nPython\n\n\nDashboard\nShiny · shinylive · shinywidgets\n\n\nVisualisation\nPlotly · Altair · plotnine\n\n\nMapping\nKepler.gl · ipyleaflet\n\n\nData\nPandas · Polars · DuckDB · Ibis · PyArrow · Narwhals"
+    "text": "Tools & Technologies\n\n\n\n\n\n\n\nCategory\nTools\n\n\n\n\nTools\nPython · LangChain · FAISS · BM25 · Hugging Face Sentence Transformers · DuckDB · Groq API · Llama 4 Scout · Shiny"
   },
   {
-    "objectID": "project-vancouver.html#links",
-    "href": "project-vancouver.html#links",
-    "title": "Vancouver Food Finder",
+    "objectID": "project-amazon-profinder.html#links",
+    "href": "project-amazon-profinder.html#links",
+    "title": "Amazon ProFinder",
     "section": "Links",
-    "text": "Links\nView Live Dashboard View GitHub Repo"
+    "text": "Links\nView GitHub Repo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jennifer Ezinne Onyebuchi",
+    "section": "",
+    "text": "Data Scientist\n\nHi! I’m Jennifer. I believe that the answers to many of the world’s most important questions lie within data, if we ask the right questions and know how to listen.\nWith a background in data science, artificial intelligence and social impact leadership; I apply machine learning, statistical analysis, and data visualization to uncover insights and support data-driven decision-making. My work sits at the intersection of data, education-technology, research and social impact, where I use data not just to analyze problems, but to better understand people, systems, and inequalities.\nView Projects Contact Me"
+  },
+  {
+    "objectID": "about.html#beyond-the-work",
+    "href": "about.html#beyond-the-work",
+    "title": "About Me",
+    "section": "Beyond the Work",
+    "text": "Beyond the Work\nWhen I’m not wrangling data or running programmes, I enjoy mentoring emerging leaders, public speaking, and finding creative intersections between technology and social good.\nSee My Projects →"
   }
 ]
