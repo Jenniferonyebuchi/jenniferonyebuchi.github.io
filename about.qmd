@@ -1,5 +1,5 @@
 
-![](images/Profile.jpg){fig-alt="Profile portrait of Jennifer Onyebuchi" width="1040px" .about-image}
+![](images/profile.jpg){fig-alt="Profile portrait of Jennifer Onyebuchi" width="1040px" .about-image}
 
 # About Me
 
@@ -7,7 +7,7 @@ Hello and welcome!
 
 I’m Jennifer Onyebuchi - a Data Scientist and AI practitioner with a Master’s in Data Science from the [University of British Columbia](https://www.ubc.ca), Canada. My work sits at the intersection of data, education, and social impact, where I use data to uncover patterns, tell meaningful stories, and inform better decisions.
 
-I have experience applying machine learning, statistical analysis, and data visualization to real-world problems, building solutions such as interactive dashboards and predictive models. I’m particularly interested in how data can be used to highlight inequalities and improve access to opportunities, especially in underserved communities.
+I have experience applying machine learning, statistical analysis, and data visualization to real-world problems, building solutions such as interactive dashboards and predictive models. I’m particularly interested in how data can be used to improve business outcomes and improve lives.
 
 Beyond technical work, I am the founder of the [Tech Big Sis Foundation](https://techbigsisfoundation.wordpress.com/), where I lead initiatives that introduce children and young girls in underserved African communities to digital skills and artificial intelligence. Through this work, I have trained and mentored hundreds of learners, shaping my approach to building technology that is inclusive, accessible, and grounded in real-world context.
 
