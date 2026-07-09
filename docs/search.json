@@ -25,7 +25,7 @@
     "href": "project-deepworks.html#what-i-built",
     "title": "DeepWorks Developer Productivity Package",
     "section": "What I Built",
-    "text": "What I Built\n\nContributed to a modular Python package for developer productivity\nHelped implement task ranking and scheduling logic\nSupported features for focus session planning and break recommendations\nContributed to developer-facing functionality that combines productivity with motivation"
+    "text": "What I Built\n\nA modular Python package that combines developer productivity with motivation\n\nImplement task ranking and scheduling logic\nAdded features for focus session planning and break recommendations"
   },
   {
     "objectID": "project-deepworks.html#tools-technologies",
@@ -130,7 +130,7 @@
     "href": "project-migrant.html#tools-technologies",
     "title": "Canadian Migrant Education Analysis",
     "section": "Tools & Technologies",
-    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nLanguage\nPython\n\n\nDashboard\nShiny (shinylive, shinywidgets)\n\n\nVisualisation\nPlotly · Altair · Pandas\n\n\nData\nGitHub · CSV datasets"
+    "text": "Tools & Technologies\n\n\n\nCategory\nTools\n\n\n\n\nLanguage\nPython\n\n\nDashboard\nShiny (shinylive, shinywidgets)\n\n\nVisualisation\nPlotly · Altair · Pandas\n\n\nData\nGitHub"
   },
   {
     "objectID": "project-migrant.html#links",
