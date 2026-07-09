@@ -20,10 +20,9 @@ Developers often juggle competing tasks, lose focus during long work sessions, a
 
 ## What I Built
 
-- Contributed to a modular Python package for developer productivity
-- Helped implement task ranking and scheduling logic
-- Supported features for focus session planning and break recommendations
-- Contributed to developer-facing functionality that combines productivity with motivation
+- A modular Python package that combines developer productivity with motivation  
+- Implement task ranking and scheduling logic
+- Added features for focus session planning and break recommendations
 
 ---
 

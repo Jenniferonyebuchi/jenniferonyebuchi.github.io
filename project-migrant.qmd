@@ -35,7 +35,7 @@ Migrant students in Canada face unique barriers in education — language, mobil
 | Language | Python |
 | Dashboard | Shiny (shinylive, shinywidgets) |
 | Visualisation | Plotly · Altair · Pandas |
-| Data | GitHub · CSV datasets |
+| Data | GitHub |
 
 ---
 
